@@ -1,4 +1,4 @@
-# GEMS-Learning-R-Geospatial-Intro
+# GEMS Learning: Introduction to Spatial Data Analysis in R
 
 Prerequisites:
 - Login to https://gems.agroinformatics.org/webui/#
