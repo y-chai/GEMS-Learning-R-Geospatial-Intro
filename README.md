@@ -9,10 +9,10 @@ Prerequisites:
 # Setup
 
 1. In bash terminal, create directory for this class
-    `mkdir classes
-    cd classes
-    mkdir GEMSX003
-    cd GEMSX003`
+    `mkdir classes`
+    `cd classes`
+    `mkdir GEMSX003`
+    `cd GEMSX003`
 3. Clone repository for this classes 
     `git clone https://github.umn.edu/IAA/GEMS-Learning-R-Geospatial-Intro.git`
 
