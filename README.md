@@ -14,7 +14,7 @@
     `mkdir GEMSX003`  
     `cd GEMSX003`  
 1. Clone repository for this classes  
-    `git clone https://github.umn.edu/IAA/GEMS-Learning-R-Geospatial-Intro.git`
+    `git clone https://github.com/y-chai/GEMS-Learning-R-Geospatial-Intro.git`
 
 # Classes and exercises
 Open the `Module 1 Introduciton.ipynb` and follow along
