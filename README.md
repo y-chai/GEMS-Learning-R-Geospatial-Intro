@@ -3,9 +3,7 @@
 
 # Introduction to Spatial Data Analysis in R
 
-Welcome to **GEMS X003.1 Explicitly Accounting for Location in Agriculture: Introduction to Spatial Data Analyis in R**.  
-
-This course is designed for those who are interested in explicitly accounting for location in their analyses. Through this introductory course, you will learn how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting exploratory analysis. You will have the opportunity to immediately practice your new skills via hands-on exercises focused on agri-food applications throughout the 2-hour workshop.  
+Welcome to **GEMS X003.1 Explicitly Accounting for Location in Agriculture: Introduction to Spatial Data Analyis in R**. This course is designed for those who are interested in explicitly accounting for location in their analyses. Through this introductory course, you will learn how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting exploratory analysis. You will have the opportunity to immediately practice your new skills via hands-on exercises focused on agri-food applications throughout the 2-hour workshop.  
 
 This workshop is part of a 5-module series on working with and analyzing spatial agricultural data in R.  
 
