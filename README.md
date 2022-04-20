@@ -20,12 +20,16 @@ Introductory Knowledge of R & RStudio
 1. Open a bash terminal by clicking 'Terminal' icon in the Launcher **OR** by cliking `File > New > Terminal`
 
 1. In bash terminal, create directories for this class  
-    `mkdir classes`  
-    `cd classes`  
-    `mkdir GEMSX003`  
-    `cd GEMSX003`  
+    ```shell
+    mkdir classes  
+    cd classes  
+    mkdir GEMSX003  
+    cd GEMSX003
+    ```  
 1. Clone repository for this classes  
-    `git clone https://github.com/y-chai/GEMS-Learning-R-Geospatial-Intro.git`
+    ```shell
+    git clone https://github.com/y-chai/GEMS-Learning-R-Geospatial-Intro.git
+    ```
 
 ## Class and Exercises
 In your JupyterLab environemnt, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `Module 1 Introduciton.ipynb` to follow along for in-class exercises 
