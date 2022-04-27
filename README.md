@@ -32,4 +32,4 @@ Introductory Knowledge of R & RStudio
     ```
 
 ## Class and Exercises
-In your JupyterLab environemnt, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `Module 1 Introduciton.ipynb` to follow along for in-class exercises 
+In your JupyterLab environemnt, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `x003_Module1_Intro.ipynb` to follow along for in-class exercises 
