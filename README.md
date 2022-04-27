@@ -13,7 +13,7 @@ Introductory Knowledge of R & RStudio
 
 ## Class Setup
 1. Login to GEMS Platform at https://gems.agroinformatics.org/webui/#
-    - GEMS Platform uses Globus to authenticate your account, so if your institution is already linked to globus (for example, University of Minnesota and many other universities), you can search and select your institution from the list and use your institutional account to log into GEMS Platform. Alternatively, you can log in using Google or ORCID iD, or create  your own globus account to log in.   
+    - GEMS Platform uses Globus to authenticate your account, so if your institution is already linked to Globus (for example, University of Minnesota and many other universities), you can search and select your institution from the list and use your institutional account to log into GEMS Platform. Alternatively, you can log in using Google or ORCID iD, or create  your own Globus account to log in.   
 
 1. Once logged in, click `Analyze > JupyterLab` from the homepage
 
@@ -32,4 +32,4 @@ Introductory Knowledge of R & RStudio
     ```
 
 ## Class and Exercises
-In your JupyterLab environemnt, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `x003_Module1_Intro.ipynb` to follow along for in-class exercises 
+In your JupyterLab environment, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `x003_Module1_Intro.ipynb` to follow along for in-class exercises 
