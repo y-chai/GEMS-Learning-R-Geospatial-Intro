@@ -17,7 +17,7 @@ Introductory Knowledge of R & RStudio
 
 1. Once logged in, click `Analyze > JupyterLab` from the homepage
 
-1. Open a bash terminal by clicking 'Terminal' icon in the Launcher **OR** by cliking `File > New > Terminal`
+1. Open a bash terminal by clicking 'Terminal' icon in the Launcher **OR** by clicking `File > New > Terminal`
 
 1. In bash terminal, create directories for this class  
     ```shell
